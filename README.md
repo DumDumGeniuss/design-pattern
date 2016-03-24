@@ -1,3 +1,3 @@
-# My Awesome Book
+# 設計模式（Design Pattern）
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+主要是用簡單的描述來介紹各個Design Patter的用途跟概念
